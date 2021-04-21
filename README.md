@@ -14,3 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+#### I am Back-end Engineer
+
+- 🔭 I’m currently developing and operating a project that provides a fair price service based on the stock valuation algorithm. 
+- 🌱 I’m currently a backend engineer, but I am also aiming for a frontend engineer. 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/wimblet)  
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=wimblet&show_icons=true)  
+
+![Profile views](https://gpvc.arturio.dev/wimblet)  
